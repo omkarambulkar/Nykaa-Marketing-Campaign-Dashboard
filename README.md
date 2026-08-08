@@ -178,23 +178,21 @@ The dashboard includes filters for:
 ## Live Dashboard
 
 View the Tableau Public dashboard here:
-
-[Tableau Dashboard Link](PASTE-YOUR-TABLEAU-LINK-HERE)
+https://public.tableau.com/app/profile/omkar.ambulkar/viz/Nykadashboard-compeletefile/NykaaCampaignDashboard
 
 ---
 
 ## Project Walkthrough Video
 
 Watch the dashboard walkthrough here:
-
-[Dashboard Walkthrough Video](PASTE-YOUR-VIDEO-LINK-HERE)
+https://youtu.be/oln90wOCoM8
 
 ---
 
 ## Project Documentation
 
 - [One-page project overview](docs/Nykaa_Marketing_Campaign_Project_One_Page_Overview.docx)
-- [Detailed interview preparation guide](docs/Nykaa_Marketing_Campaign_Detailed_Interview_Prep.docx)
+
 
 ---
 
