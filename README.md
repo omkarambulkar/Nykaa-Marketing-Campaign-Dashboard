@@ -22,15 +22,44 @@ The business requirement was to build a dashboard that can answer:
 - Which campaigns should be scaled, optimized, or reviewed?
 
 ---
+## Live Dashboard
 
+View the Tableau Public dashboard here:
+https://public.tableau.com/app/profile/omkar.ambulkar/viz/Nykadashboard-compeletefile/NykaaCampaignDashboard
+
+---
+
+## Project Walkthrough Video
+
+Watch the dashboard walkthrough here:
+https://youtu.be/oln90wOCoM8
+
+## Key Insights
+
+- The campaign portfolio generated **₹28,656.36M revenue** and **₹18,957.24M profit**.
+- Overall ROI was **1.95x**, meaning every ₹1 of estimated spend generated ₹1.95 in profit.
+- **Social Media** was the strongest campaign type by total profit.
+- **Working Women** was the highest-profit customer segment.
+- **Instagram** led the top marketing channels by profit.
+- Monthly revenue and profit remained broadly stable across the reporting period.
+- June 2025 was a partial month and should not be directly compared with full months.
+
+---
+
+## Business Recommendations
+
+- Scale high-performing Social Media campaigns.
+- Prioritize campaigns targeting Working Women due to strong profitability.
+- Continue investing in Instagram as a high-profit marketing channel.
+- Review weaker segments and campaign types to improve targeting, content, and cost efficiency.
+- Monitor months with lower ROI to identify cost inefficiencies.
+- 
 ## Tools and Technologies Used
 
 - **MySQL** – Data import, validation, cleaning, KPI calculations, and campaign classification
 - **Tableau Public** – Dashboard creation and interactive visualization
 - **Excel / CSV** – Dataset storage and Tableau data source
 - **GitHub** – Project documentation and portfolio hosting
-
----
 
 ## Dataset
 
@@ -151,50 +180,9 @@ The dashboard includes filters for:
 - Customer Segment
 - Performance Category
 
----
-
-## Key Insights
-
-- The campaign portfolio generated **₹28,656.36M revenue** and **₹18,957.24M profit**.
-- Overall ROI was **1.95x**, meaning every ₹1 of estimated spend generated ₹1.95 in profit.
-- **Social Media** was the strongest campaign type by total profit.
-- **Working Women** was the highest-profit customer segment.
-- **Instagram** led the top marketing channels by profit.
-- Monthly revenue and profit remained broadly stable across the reporting period.
-- June 2025 was a partial month and should not be directly compared with full months.
-
----
-
-## Business Recommendations
-
-- Scale high-performing Social Media campaigns.
-- Prioritize campaigns targeting Working Women due to strong profitability.
-- Continue investing in Instagram as a high-profit marketing channel.
-- Review weaker segments and campaign types to improve targeting, content, and cost efficiency.
-- Monitor months with lower ROI to identify cost inefficiencies.
-
----
-
-## Live Dashboard
-
-View the Tableau Public dashboard here:
-https://public.tableau.com/app/profile/omkar.ambulkar/viz/Nykadashboard-compeletefile/NykaaCampaignDashboard
-
----
-
-## Project Walkthrough Video
-
-Watch the dashboard walkthrough here:
-https://youtu.be/oln90wOCoM8
-
----
-
 ## Project Documentation
 
-- [One-page project overview](docs/Nykaa_Marketing_Campaign_Project_One_Page_Overview.docx)
-
-
----
+- [One-page project overview]
 
 ## Repository Structure
 
@@ -206,10 +194,5 @@ Nykaa-Marketing-Campaign-Dashboard
 │   └── nykaa_campaign_sql_queries.sql
 ├── docs/
 │   ├── Nykaa_Marketing_Campaign_Project_One_Page_Overview.docx
-│   └── Nykaa_Marketing_Campaign_Detailed_Interview_Prep.docx
-├── images/
-│   └── dashboard_screenshot.png
-├── videos/
-│   └── nykaa_dashboard_walkthrough.mp4
 └── data/
     └── sample_dataset_or_final_table.csv
