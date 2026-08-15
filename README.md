@@ -180,10 +180,6 @@ The dashboard includes filters for:
 - Customer Segment
 - Performance Category
 
-## Project Documentation
-
-- [One-page project overview]
-
 ## Repository Structure
 
 ```text
